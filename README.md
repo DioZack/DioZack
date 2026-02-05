@@ -7,7 +7,7 @@ Uso programação, automação, IA's e marketing como ferramentas para transform
 
  • 🎓 Estudando: Economia na Unesp
  
- • 🧠 Aprendendo: CS50x (Harvard University) & Power BI (Fundação Bradesco)
+ • 🧠 Aprendendo: CS50x (Harvard University)
  
  • 📊 Foco: Power BI, Exel avançado, SQL, Python, C, HTML, CSS, JS.
  
