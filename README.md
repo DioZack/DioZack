@@ -2,7 +2,7 @@ Olá, eu sou o Muryllo!👋
 
 📈 Economia • 📊 Dados • 🚀 Marketing • 💻 Tecnologia  
 
-Futuro estudante de **Economia**, interessado na interseção entre dados, estratégia e soluções digitais para negócios.  
+Estudante de **Economia na UNESP**, interessado na interseção entre dados, estratégia e soluções digitais para negócios.  
 Uso programação, automação, IA's e marketing como ferramentas para transformar informação em crescimento real.
 
  • 🎓 Estudando: Economia na Unesp
